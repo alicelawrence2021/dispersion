@@ -1,0 +1,417 @@
+﻿month,order,village,site,nitrite,nitrate,ammonia,din
+September,1,Afono,Pago,0.005,0.166,0.05,0.216
+June,10,Afono,Pago,0.002,0.041,0.008,0.049
+July ,11,Afono,Pago,0,0.047,-0.019,0.028
+August ,12,Afono,Pago,0,0.047,0.036,0.083
+September,13,Afono,Pago,0.002,0.047,-0.016,0.031
+November,3,Afono,Pago,0.001,0.112,-0.003,0.109
+December,4,Afono,Pago,0.003,0.192,-0.018,0.174
+January ,5,Afono,Pago,0,0.059,-0.004,0.055
+February,6,Afono,Pago,0.001,0.085,-0.002,0.083
+April,8,Afono,Pago,0.001,0.044,0.004,0.048
+May,9,Afono,Pago,0.002,0.047,0.016,0.063
+September,1,Alega,Alega,0.003,0.169,0.077,0.246
+June,10,Alega,Alega,0.001,0.072,-0.004,0.068
+July ,11,Alega,Alega,0.001,0.071,-0.019,0.052
+August ,12,Alega,Alega,0,0.093,0.023,0.116
+September,13,Alega,Alega,0.001,0.069,-0.016,0.053
+November,3,Alega,Alega,0.001,0.226,0.006,0.232
+December,4,Alega,Alega,0,0.133,-0.04,0.093
+January ,5,Alega,Alega,0,0.129,-0.011,0.118
+February,6,Alega,Alega,0.001,0.273,0.016,0.289
+March ,7,Alega,Alega,0.001,0.081,0.041,0.122
+April,8,Alega,Alega,0.001,0.073,-0.021,0.052
+May,9,Alega,Alega,0.002,0.091,0.005,0.096
+September,1,Alofau,Fogalilima,0.003,0.169,0.038,0.207
+September,1,Alofau,Nuu,0.025,0.19,0.13,0.32
+September,1,Alofau,Fogalilima,0.006,0.117,0.128,0.245
+June,10,Alofau,Nuu,0.022,0.089,0.064,0.153
+June,10,Alofau,Fogalilima,0.003,0.036,0.07,0.106
+July ,11,Alofau,Nuu,0.013,0.059,0.729,0.788
+July ,11,Alofau,Fogalilima,0.002,0.043,0.068,0.111
+August ,12,Alofau,Nuu,0.016,0.1,0.09,0.19
+August ,12,Alofau,Fogalilima,0.002,0.05,0.102,0.152
+September,13,Alofau,Nuu,0.003,0.035,0.432,0.467
+September,13,Alofau,Fogalilima,0.003,0.048,0.068,0.116
+November,3,Alofau,Fogalilima,0.003,0.129,0.072,0.201
+November,3,Alofau,Nuu,0.014,0.097,0.1,0.197
+December,4,Alofau,Fogalilima,0.002,0.048,0.033,0.081
+January ,5,Alofau,Fogalilima,0.002,0.064,0.057,0.121
+January ,5,Alofau,Nuu,0.017,0.12,0.087,0.207
+February,6,Alofau,Nuu,0.007,0.121,0.051,0.172
+February,6,Alofau,Fogalilima,0.003,0.063,0.063,0.126
+March ,7,Alofau,Nuu,0.02,0.083,0.132,0.215
+March ,7,Alofau,Fogalilima,0.002,0.026,0.124,0.15
+April,8,Alofau,Nuu,0.01,0.078,0.026,0.104
+April,8,Alofau,Fogalilima,0.002,0.035,0.022,0.057
+May,9,Alofau,Nuu,0.004,0.05,0.032,0.082
+May,9,Alofau,Fogalilima,0.004,0.048,0.033,0.081
+September,1,Amalau,Tiaiu,0.002,0.045,0.053,0.098
+June,10,Amalau,Tiaiu,0.002,0.031,-0.008,0.023
+July ,11,Amalau,Tiaiu,0,0.04,-0.016,0.024
+August ,12,Amalau,Tiaiu,0,0.036,0.018,0.054
+September,13,Amalau,Tiaiu,0.001,0.032,-0.02,0.012
+November,3,Amalau,Tiaiu,0,0.036,0.003,0.039
+December,4,Amalau,Tiaiu,-0.001,0.031,-0.048,-0.017
+January ,5,Amalau,Tiaiu,0,0.039,-0.006,0.033
+February,6,Amalau,Tiaiu,0.001,0.08,0.005,0.085
+April,8,Amalau,Tiaiu,0,0.029,-0.006,0.023
+May,9,Amalau,Tiaiu,0.003,0.04,0.015,0.055
+September,1,Amaluia,Vaipuna,0.004,0.073,0.063,0.136
+June,10,Amaluia,Vaipuna,0.002,0.078,-0.004,0.074
+July ,11,Amaluia,Vaipuna,0.001,0.051,-0.016,0.035
+August ,12,Amaluia,Vaipuna,0,0.059,0.026,0.085
+September,13,Amaluia,Vaipuna,0.001,0.04,-0.004,0.036
+November,3,Amaluia,Vaipuna,0.001,0.053,0.027,0.08
+December,4,Amaluia,Vaipuna,0.002,0.053,-0.027,0.026
+January ,5,Amaluia,Vaipuna,0,0.069,-0.002,0.067
+February,6,Amaluia,Vaipuna,0.002,0.244,0.017,0.261
+March ,7,Amaluia,Vaipuna,0,0.024,0.023,0.047
+April,8,Amaluia,Vaipuna,0.001,0.047,-0.008,0.039
+May,9,Amaluia,Vaipuna,0.003,0.08,0.02,0.1
+September,1,Amanave,Laloafu,0.004,0.006,0.134,0.14
+September,1,Amanave,Puna,0.006,0.118,0.069,0.187
+June,10,Amanave,Puna,0.004,0.089,-0.002,0.087
+June,10,Amanave,Laloafu,0.002,0.029,-0.003,0.026
+July ,11,Amanave,Puna,0.002,0.074,-0.013,0.061
+July ,11,Amanave,Laloafu,0.001,0.033,-0.015,0.018
+August ,12,Amanave,Puna,0.001,0.091,0.045,0.136
+August ,12,Amanave,Laloafu,0,0.038,0.02,0.058
+September,13,Amanave,Puna,0.017,0.207,0.065,0.272
+September,13,Amanave,Laloafu,0,0.03,-0.023,0.007
+November,3,Amanave,Laloafu,0.002,0.021,0.022,0.043
+November,3,Amanave,Puna,0.003,0.142,0.019,0.161
+November,3,Amanave,Puna,0.003,0.135,0.016,0.151
+December,4,Amanave,Puna,0.006,0.165,0.01,0.175
+December,4,Amanave,Laloafu,0.004,0.004,-0.019,-0.015
+January ,5,Amanave,Laloafu,0,0.031,0.021,0.052
+January ,5,Amanave,Puna,0.001,0.069,0.018,0.087
+February,6,Amanave,Puna,0.004,0.428,0.003,0.431
+February,6,Amanave,Laloafu,0.002,0.05,-0.001,0.049
+March ,7,Amanave,Puna,0.002,0.037,0.047,0.084
+March ,7,Amanave,Laloafu,0.001,0.012,0.035,0.047
+April,8,Amanave,Puna,0.003,0.039,0.003,0.042
+April,8,Amanave,Laloafu,0.002,0.022,0.009,0.031
+May,9,Amanave,Puna,0.004,0.145,0.021,0.166
+May,9,Amanave,Laloafu,0.004,0.043,0.008,0.051
+September,1,Amaua,No name,0.003,0.077,0.05,0.127
+September,1,Amaua,No name,0.003,0.029,0.067,0.096
+June,10,Amaua,No name,0.002,0.026,0,0.026
+July ,11,Amaua,No name,0.001,0.037,-0.004,0.033
+August ,12,Amaua,No name,0,0.041,0.023,0.064
+September,13,Amaua,No name,0.001,0.038,-0.017,0.021
+November,3,Amaua,No name,0.001,0.088,-0.003,0.085
+December,4,Amaua,No name,0.001,0.074,-0.029,0.045
+January ,5,Amaua,No name,0,0.027,-0.002,0.025
+January ,5,Amaua,No name,0,0.027,-0.002,0.025
+February,6,Amaua,No name,0.002,0.035,-0.002,0.033
+March ,7,Amaua,No name,0.001,0.01,0.028,0.038
+April,8,Amaua,No name,0.002,0.021,-0.01,0.011
+May,9,Amaua,No name,0.002,0.026,0.017,0.043
+September,1,Amouli,Laloi,0.002,0.001,0.042,0.043
+September,1,Amouli,Televai,0.003,0.001,0.109,0.11
+June,10,Amouli,Televai,0.002,0.035,0.021,0.056
+June,10,Amouli,Laloi,0.003,0.044,-0.005,0.039
+July ,11,Amouli,Televai,0.003,0.047,0.034,0.081
+July ,11,Amouli,Laloi,0.067,0.193,0.517,0.71
+August ,12,Amouli,Televai,0.001,0.047,0.026,0.073
+August ,12,Amouli,Laloi,0.001,0.044,0.035,0.079
+September,13,Amouli,Televai,0.003,0.043,0.002,0.045
+November,3,Amouli,Laloi,0.004,0.058,0,0.058
+November,3,Amouli,Televai,0.001,0.03,-0.01,0.02
+December,4,Amouli,Televai,0.002,0.037,0.173,0.21
+December,4,Amouli,Laloi,0.005,0.037,0.031,0.068
+January ,5,Amouli,Laloi,-0.001,0.022,-0.008,0.014
+January ,5,Amouli,Televai,0,0.033,-0.009,0.024
+February,6,Amouli,Televai,0.002,0.038,0.026,0.064
+February,6,Amouli,Laloi,0.002,0.047,0.013,0.06
+March ,7,Amouli,Televai,0.001,0.018,0.056,0.074
+March ,7,Amouli,Laloi,0.001,0.005,0.028,0.033
+April,8,Amouli,Televai,0.002,0.03,0.004,0.034
+April,8,Amouli,Laloi,0.002,0.021,-0.012,0.009
+May,9,Amouli,Televai,0.003,0.03,0.01,0.04
+May,9,Amouli,Laloi,0.003,0.031,0.006,0.037
+September,1,Aoa,Tapua,0.011,0.213,0.152,0.365
+September,1,Aoa,Vaitolu,0.005,0.363,0.06,0.423
+June,10,Aoa,Tapua,0.005,0.039,0.127,0.166
+June,10,Aoa,Vaitolu,0.001,0.049,0.012,0.061
+July ,11,Aoa,Tapua,0.004,0.041,0.083,0.124
+July ,11,Aoa,Vaitolu,0.001,0.051,-0.001,0.05
+August ,12,Aoa,Tapua,0.005,0.064,0.132,0.196
+August ,12,Aoa,Vaitolu,0.005,0.198,0.026,0.224
+September,13,Aoa,Tapua,0,0.027,-0.019,0.008
+September,13,Aoa,Vaitolu,0.004,0.046,-0.025,0.021
+November,3,Aoa,Tapua,0.009,0.19,0.14,0.33
+November,3,Aoa,Vaitolu,0.003,0.401,0.043,0.444
+December,4,Aoa,Tapua,0,0.004,-0.035,-0.031
+December,4,Aoa,Vaitolu,0.001,0.082,0.001,0.083
+January ,5,Aoa,Tapua,0.005,0.07,0.137,0.207
+January ,5,Aoa,Vaitolu,0,0.099,-0.007,0.092
+February,6,Aoa,Tapua,0.003,0.108,0.074,0.182
+February,6,Aoa,Vaitolu,0.002,0.277,0.026,0.303
+March ,7,Aoa,Tapua,0.002,0.014,0.173,0.187
+March ,7,Aoa,Vaitolu,0.003,0.024,0.034,0.058
+April,8,Aoa,Tapua,0.007,0.056,0.105,0.161
+April,8,Aoa,Vaitolu,0.002,0.059,-0.01,0.049
+May,9,Aoa,Tapua,0.004,0.047,0.049,0.096
+May,9,Aoa,Vaitolu,0.004,0.09,0.022,0.112
+September,1,Asili,Asili,0.004,0.023,0.026,0.049
+June,10,Asili,Asili,0.002,0.039,-0.001,0.038
+July ,11,Asili,Asili,0,0.031,-0.019,0.012
+August ,12,Asili,Asili,0,0.037,0.02,0.057
+September,13,Asili,Asili,0,0.029,-0.02,0.009
+November,3,Asili,Asili,0.001,0.013,0.006,0.019
+December,4,Asili,Asili,0.002,0.015,-0.03,-0.015
+January ,5,Asili,Asili,-0.001,0.017,-0.016,0.001
+February,6,Asili,Asili,0.001,0.062,-0.004,0.058
+March ,7,Asili,Asili,0,0.006,0.024,0.03
+April,8,Asili,Asili,0.001,0.019,-0.021,-0.002
+May,9,Asili,Asili,0.004,0.039,0.026,0.065
+September,1,Aua,Lalomauna,0.012,0.303,0.213,0.516
+June,10,Aua,Lalomauna,0.004,0.077,0.016,0.093
+July ,11,Aua,Lalomauna,0.007,0.101,0.08,0.181
+August ,12,Aua,Lalomauna,0.006,0.09,0.184,0.274
+September,13,Aua,Lalomauna,0.006,0.118,0.059,0.177
+November,3,Aua,Lalomauna,0.005,0.249,0.331,0.58
+February,6,Aua,Lalomauna,0.006,0.321,0.14,0.461
+April,8,Aua,Lalomauna,0.004,0.106,0.103,0.209
+May,9,Aua,Lalomauna,0.003,0.08,0.025,0.105
+September,1,Fagaalu,Fagaalu,0.005,0.158,0.082,0.24
+June,10,Fagaalu,Fagaalu,0.002,0.059,-0.001,0.058
+July ,11,Fagaalu,Fagaalu,0.001,0.056,-0.008,0.048
+August ,12,Fagaalu,Fagaalu,0,0.085,0.014,0.099
+September,13,Fagaalu,Fagaalu,0.001,0.063,-0.01,0.053
+November,3,Fagaalu,Fagaalu,0.002,0.237,0.018,0.255
+December,4,Fagaalu,Fagaalu,0.001,0.158,-0.011,0.147
+January ,5,Fagaalu,Fagaalu,0.001,0.103,0.003,0.106
+February,6,Fagaalu,Fagaalu,,,,0
+March ,7,Fagaalu,Fagaalu,0.001,0.055,0.027,0.082
+April,8,Fagaalu,Fagaalu,0.002,0.069,-0.005,0.064
+May,9,Fagaalu,Fagaalu,0.003,0.08,0.025,0.105
+September,1,Fagaitua,Tialu,0.003,0.244,0.042,0.286
+September,1,Fagaitua,Siapapa,0.003,0.032,0.047,0.079
+September,1,Fagaitua,Tialu,0.003,0.045,0.082,0.127
+September,1,Fagaitua,Siapapa,0.005,0.149,0.151,0.3
+June,10,Fagaitua,Tialu,0.004,0.04,0.006,0.046
+June,10,Fagaitua,Siapapa,0.002,0.034,-0.008,0.026
+July ,11,Fagaitua,Tialu,0.015,0.076,-0.001,0.075
+July ,11,Fagaitua,Siapapa,0.003,0.047,0.072,0.119
+August ,12,Fagaitua,Tialu,0.002,0.044,0.022,0.066
+August ,12,Fagaitua,Siapapa,0.005,0.049,0.123,0.172
+September,13,Fagaitua,Tialu,0.099,0.311,0.28,0.591
+September,13,Fagaitua,Siapapa,0.003,0.044,0.02,0.064
+November,3,Fagaitua,Tialu,0.007,0.105,0.004,0.109
+November,3,Fagaitua,Siapapa,0.004,0.058,0.102,0.16
+December,4,Fagaitua,Tialu,0,0.011,-0.039,-0.028
+December,4,Fagaitua,Siapapa,0.014,0.249,-0.045,0.204
+January ,5,Fagaitua,Tialu,0.005,0.087,-0.016,0.071
+January ,5,Fagaitua,Siapapa,0.001,0.017,0.055,0.072
+February,6,Fagaitua,Tialu,0.003,0.032,0.011,0.043
+February,6,Fagaitua,Siapapa,0.018,0.297,0.076,0.373
+March ,7,Fagaitua,Tialu,0.001,0.014,0.035,0.049
+March ,7,Fagaitua,Siapapa,0.009,0.061,0.028,0.089
+April,8,Fagaitua,Tialu,0.005,0.037,-0.015,0.022
+April,8,Fagaitua,Siapapa,0.002,0.037,0.06,0.097
+May,9,Fagaitua,Tialu,0.002,0.03,0.002,0.032
+May,9,Fagaitua,Siapapa,0.036,0.139,0.033,0.172
+September,1,Fagamalo,Matavai,0.004,0.038,0.019,0.057
+June,10,Fagamalo,Matavai,0.002,0.033,-0.009,0.024
+July ,11,Fagamalo,Matavai,0.001,0.04,-0.021,0.019
+August ,12,Fagamalo,Matavai,0,0.065,0.03,0.095
+September,13,Fagamalo,Matavai,0.001,0.039,-0.015,0.024
+November,3,Fagamalo,Matavai,0,0.016,0.001,0.017
+December,4,Fagamalo,Matavai,0.002,0.048,-0.033,0.015
+January ,5,Fagamalo,Matavai,-0.001,0.03,-0.005,0.025
+February,6,Fagamalo,Matavai,0.002,0.05,0.015,0.065
+March ,7,Fagamalo,Matavai,0,0.015,0.018,0.033
+April,8,Fagamalo,Matavai,0,0.022,-0.022,0
+May,9,Fagamalo,Matavai,0.004,0.029,0.007,0.036
+September,1,Fagasa2,Leele,0.003,0.106,0.049,0.155
+September,1,Fagasa2,Agasii,0.007,0.269,0.136,0.405
+June,10,Fagasa2,Leele,0.002,0.044,0.001,0.045
+June,10,Fagasa2,Agasii,0.001,0.057,0.002,0.059
+July ,11,Fagasa2,Leele,0,0.049,-0.014,0.035
+July ,11,Fagasa2,Agasii,0,0.049,-0.013,0.036
+August ,12,Fagasa2,Leele,0,0.051,0.02,0.071
+August ,12,Fagasa2,Agasii,0,0.06,0.038,0.098
+September,13,Fagasa2,Leele,0.001,0.044,-0.019,0.025
+September,13,Fagasa2,Agasii,0.001,0.089,-0.015,0.074
+November,3,Fagasa2,Leele,0.001,0.061,-0.002,0.059
+November,3,Fagasa2,Agasii,0.002,0.146,0.014,0.16
+December,4,Fagasa2,Leele,0.001,0.094,-0.015,0.079
+December,4,Fagasa2,Agasii,0.004,0.135,0.006,0.141
+January ,5,Fagasa2,Leele,0,0.083,-0.005,0.078
+January ,5,Fagasa2,Agasii,0.003,0.114,0.034,0.148
+February,6,Fagasa2,Leele,0.001,0.116,-0.002,0.114
+February,6,Fagasa2,Agasii,0.001,0.2,0.009,0.209
+April,8,Fagasa2,Leele,0.001,0.054,-0.014,0.04
+April,8,Fagasa2,Agasii,0.001,0.055,0.001,0.056
+May,9,Fagasa2,Leele,0.002,0.054,0.004,0.058
+May,9,Fagasa2,Agasii,0.002,0.061,0.008,0.069
+September,1,Fagatele,No name,0.003,0.009,0.02,0.029
+June,10,Fagatele,No name,0.001,0.027,-0.003,0.024
+July ,11,Fagatele,No name,0,0.03,-0.019,0.011
+August ,12,Fagatele,No name,0,0.034,0.034,0.068
+September,13,Fagatele,No name,0.001,0.032,-0.012,0.02
+November,3,Fagatele,No name,0,0.011,-0.003,0.008
+January ,5,Fagatele,No name,-0.001,0.021,-0.003,0.018
+February,6,Fagatele,No name,0.001,0.026,0.009,0.035
+March ,7,Fagatele,No name,0,0.006,0.028,0.034
+April,8,Fagatele,No name,0,0.017,-0.017,0
+May,9,Fagatele,No name,0.001,0.028,0.014,0.042
+September,1,Laulii,Vaitele,0.003,0.05,0.041,0.091
+June,10,Laulii,Vaitele,0.002,0.043,0.005,0.048
+July ,11,Laulii,Vaitele,0.001,0.05,0,0.05
+August ,12,Laulii,Vaitele,0.001,0.071,0.043,0.114
+September,13,Laulii,Vaitele,0.001,0.041,-0.014,0.027
+November,3,Laulii,Vaitele,0.001,0.093,0.003,0.096
+December,4,Laulii,Vaitele,0,0.05,-0.015,0.035
+January ,5,Laulii,Vaitele,0,0.043,-0.005,0.038
+February,6,Laulii,Vaitele,0.002,0.131,0.033,0.164
+March ,7,Laulii,Vaitele,0.002,0.028,0.036,0.064
+April,8,Laulii,Vaitele,0.001,0.037,-0.005,0.032
+May,9,Laulii,Vaitele,0.003,0.054,0.032,0.086
+September,1,Leone2,Leafu,0.003,0.212,0.039,0.251
+June,10,Leone2,Leafu,0.002,0.087,0.012,0.099
+July ,11,Leone2,Leafu,0.001,0.078,-0.009,0.069
+August ,12,Leone2,Leafu,0,0.094,0.042,0.136
+September,13,Leone2,Leafu,0.001,0.074,-0.019,0.055
+November,3,Leone2,Leafu,0.001,0.403,0.01,0.413
+December,4,Leone2,Leafu,0,0.284,-0.022,0.262
+January ,5,Leone2,Leafu,0,0.236,-0.008,0.228
+February,6,Leone2,Leafu,0.002,0.333,0.002,0.335
+March ,7,Leone2,Leafu,0.001,0.113,0.038,0.151
+April,8,Leone2,Leafu,0.001,0.092,-0.007,0.085
+May,9,Leone2,Leafu,0.003,0.097,0.018,0.115
+September,1,Maloata,Maloata,0.003,0.034,0.044,0.078
+June,10,Maloata,Maloata,0.002,0.034,-0.004,0.03
+July ,11,Maloata,Maloata,0.001,0.037,-0.019,0.018
+August ,12,Maloata,Maloata,0,0.047,0.029,0.076
+September,13,Maloata,Maloata,0.001,0.033,-0.013,0.02
+November,3,Maloata,Maloata,0,0.04,0.01,0.05
+December,4,Maloata,Maloata,0.002,0.093,0.149,0.242
+January ,5,Maloata,Maloata,-0.001,0.031,-0.011,0.02
+February,6,Maloata,Maloata,0.002,0.089,-0.009,0.08
+March ,7,Maloata,Maloata,0,0.016,0.029,0.045
+April,8,Maloata,Maloata,0.001,0.027,-0.017,0.01
+May,9,Maloata,Maloata,0.004,0.036,0.009,0.045
+September,1,Masausi,Panata,0.004,0.049,0.041,0.09
+September,1,Masausi,Vaipito,0.004,0.093,0.061,0.154
+June,10,Masausi,Vaipito,0.002,0.035,0.022,0.057
+June,10,Masausi,Panata,0.004,0.038,-0.002,0.036
+July ,11,Masausi,Vaipito,0,0.031,-0.021,0.01
+July ,11,Masausi,Panata,0.004,0.044,-0.021,0.023
+August ,12,Masausi,Vaipito,0,0.047,0.028,0.075
+August ,12,Masausi,Panata,0.002,0.052,0.049,0.101
+September,13,Masausi,Vaipito,0.002,0.036,-0.024,0.012
+September,13,Masausi,Panata,0.002,0.034,-0.026,0.008
+November,3,Masausi,Vaipito,0.002,0.043,-0.001,0.042
+November,3,Masausi,Panata,0.002,0.058,0.003,0.061
+December,4,Masausi,Vaipito,0.001,0.058,-0.007,0.051
+December,4,Masausi,Panata,0.003,0.059,-0.034,0.025
+January ,5,Masausi,Panata,0.001,0.041,-0.003,0.038
+January ,5,Masausi,Vaipito,0,0.047,0,0.047
+February,6,Masausi,Vaipito,0.002,0.05,-0.004,0.046
+February,6,Masausi,Panata,0.002,0.052,0.025,0.077
+March ,7,Masausi,Vaipito,0.002,0.02,0.056,0.076
+March ,7,Masausi,Panata,0.004,0.024,0.031,0.055
+April,8,Masausi,Vaipito,0.002,0.029,-0.002,0.027
+April,8,Masausi,Panata,0.002,0.024,-0.013,0.011
+May,9,Masausi,Vaipito,0.005,0.031,0.024,0.055
+May,9,Masausi,Panata,0.002,0.03,0.018,0.048
+September,1,Masefau,Talaloa,0.003,0.011,0.131,0.142
+June,10,Masefau,Talaloa,0.002,0.029,0.052,0.081
+July ,11,Masefau,Talaloa,0.001,0.034,0.042,0.076
+August ,12,Masefau,Talaloa,0.001,0.035,0.086,0.121
+September,13,Masefau,Talaloa,0.001,0.029,-0.008,0.021
+November,3,Masefau,Talaloa,0.002,0.016,0.039,0.055
+December,4,Masefau,Talaloa,0.001,0.003,0.016,0.019
+January ,5,Masefau,Talaloa,0,0.02,0.06,0.08
+February,6,Masefau,Talaloa,0.002,0.05,0.048,0.098
+March ,7,Masefau,Talaloa,0.002,0.011,0.146,0.157
+April,8,Masefau,Talaloa,0.001,0.02,0.025,0.045
+May,9,Masefau,Talaloa,0.002,0.033,0.047,0.08
+September,1,Matuu,Afuelo,0.003,0.031,0.042,0.073
+June,10,Matuu,Afuelo,0.002,0.046,0.004,0.05
+July ,11,Matuu,Afuelo,0.001,0.039,-0.016,0.023
+August ,12,Matuu,Afuelo,0,0.052,0.022,0.074
+September,13,Matuu,Afuelo,0.001,0.044,-0.004,0.04
+November,3,Matuu,Afuelo,0.001,0.01,-0.002,0.008
+December,4,Matuu,Afuelo,0.002,0.093,-0.031,0.062
+January ,5,Matuu,Afuelo,0,0.057,0.003,0.06
+February,6,Matuu,Afuelo,0.001,0.165,0.01,0.175
+March ,7,Matuu,Afuelo,0.002,0.021,0.015,0.036
+April,8,Matuu,Afuelo,0.002,0.034,-0.01,0.024
+May,9,Matuu,Afuelo,0.003,0.049,0.027,0.076
+September,1,Nua,Saonapule,0.007,0.318,0.037,0.355
+June,10,Nua,Saonapule,0.002,0.033,0.008,0.041
+July ,11,Nua,Saonapule,0,0.033,-0.018,0.015
+August ,12,Nua,Saonapule,0,0.037,0.01,0.047
+September,13,Nua,Saonapule,0,0.03,-0.018,0.012
+November,3,Nua,Saonapule,0,0.015,-0.001,0.014
+December,4,Nua,Saonapule,0.003,0.028,-0.028,0
+January ,5,Nua,Saonapule,-0.001,0.025,-0.014,0.011
+February,6,Nua,Saonapule,0.002,0.072,0.004,0.076
+March ,7,Nua,Saonapule,0,0.014,0.02,0.034
+April,8,Nua,Saonapule,0.001,0.029,-0.008,0.021
+May,9,Nua,Saonapule,0.003,0.031,0.004,0.035
+September,1,Nuuuli,Amalie,0.003,0.08,0.045,0.125
+June,10,Nuuuli,Amalie,0.002,0.065,-0.002,0.063
+July ,11,Nuuuli,Amalie,0.001,0.06,-0.013,0.047
+August ,12,Nuuuli,Amalie,0,0.072,0.036,0.108
+September,13,Nuuuli,Amalie,0.001,0.078,-0.016,0.062
+November,3,Nuuuli,Amalie,0.001,0.086,0.016,0.102
+December,4,Nuuuli,Amalie,0.001,0.095,-0.021,0.074
+January ,5,Nuuuli,Amalie,0,0.08,0.002,0.082
+February,6,Nuuuli,Amalie,0.002,0.179,0,0.179
+March ,7,Nuuuli,Amalie,0.001,0.031,0.028,0.059
+April,8,Nuuuli,Amalie,0.002,0.066,-0.002,0.064
+May,9,Nuuuli,Amalie,0.003,0.065,0.035,0.1
+September,1,Poloa,Vaitele,0.003,0.082,0.029,0.111
+June,10,Poloa,Vaitele,0.004,0.081,-0.01,0.071
+July ,11,Poloa,Vaitele,0.001,0.055,-0.015,0.04
+August ,12,Poloa,Vaitele,0.001,0.082,0.043,0.125
+September,13,Poloa,Vaitele,0.001,0.049,-0.016,0.033
+November,3,Poloa,Vaitele,0.001,0.118,0.008,0.126
+December,4,Poloa,Vaitele,0.005,0.23,-0.023,0.207
+January ,5,Poloa,Vaitele,0,0.162,0.206,0.368
+February,6,Poloa,Vaitele,0.001,0.185,0.007,0.192
+March ,7,Poloa,Vaitele,0.001,0.045,0.025,0.07
+April,8,Poloa,Vaitele,0.001,0.059,-0.005,0.054
+May,9,Poloa,Vaitele,0.007,0.125,0.016,0.141
+September,1,Vatia,Faatafe,0.003,0.024,0.021,0.045
+September,1,Vatia,Gaoa,0.003,0.089,0.025,0.114
+September,1,Vatia,Lausaa,0.003,0.033,0.03,0.063
+September,1,Vatia,Faatafe,0.003,0.043,0.075,0.118
+September,1,Vatia,Lausaa,0.005,0.063,0.045,0.108
+September,1,Vatia,Gaoa,0.009,0.319,0.242,0.561
+June,10,Vatia,Gaoa,0.002,0.031,0,0.031
+June,10,Vatia,Lausaa,0.001,0.027,-0.004,0.023
+June,10,Vatia,Faatafe,0.001,0.029,0.002,0.031
+July ,11,Vatia,Gaoa,0.002,0.047,0.02,0.067
+July ,11,Vatia,Lausaa,0,0.036,-0.015,0.021
+July ,11,Vatia,Faatafe,0,0.034,0.01,0.044
+August ,12,Vatia,Gaoa,0.001,0.038,0.052,0.09
+August ,12,Vatia,Lausaa,0,0.038,0.043,0.081
+August ,12,Vatia,Faatafe,0,0.035,0.039,0.074
+September,13,Vatia,Gaoa,0.033,0.199,0.182,0.381
+September,13,Vatia,Lausaa,0.002,0.038,-0.008,0.03
+September,13,Vatia,Faatafe,0.001,0.035,0.012,0.047
+November,3,Vatia,Lausaa,0.001,0.037,0.004,0.041
+November,3,Vatia,Gaoa,0.001,0.031,0.036,0.067
+November,3,Vatia,Faatafe,0.001,0.03,0.016,0.046
+December,4,Vatia,Gaoa,0.01,0.212,0.105,0.317
+December,4,Vatia,Lausaa,0.001,0.043,-0.047,-0.004
+December,4,Vatia,Faatafe,0,0.012,-0.016,-0.004
+January ,5,Vatia,Faatafe,-0.001,0.023,0.016,0.039
+January ,5,Vatia,Gaoa,0.005,0.118,0.058,0.176
+January ,5,Vatia,Lausaa,0,0.043,0.009,0.052
+February,6,Vatia,Gaoa,0.003,0.101,0.019,0.12
+February,6,Vatia,Lausaa,0.003,0.075,0.011,0.086
+February,6,Vatia,Faatafe,0.001,0.032,0.002,0.034
+April,8,Vatia,Gaoa,0.009,0.095,0.065,0.16
+April,8,Vatia,Lausaa,0.001,0.024,-0.014,0.01
+April,8,Vatia,Faatafe,0,0.024,-0.006,0.018
+May,9,Vatia,Gaoa,0.002,0.041,0.003,0.044
+May,9,Vatia,Lausaa,0.002,0.032,0.023,0.055
+May,9,Vatia,Faatafe,0.002,0.03,0.014,0.044
